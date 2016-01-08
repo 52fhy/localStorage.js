@@ -4,6 +4,7 @@
 ## 简化的API
 
 localStorage
+支持旧版ie的userData
 ```
 ls.set(key,value);
 ls.get(key);
